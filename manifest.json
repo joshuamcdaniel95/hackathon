@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "X",
+    "version": "1.0",
+    "description": "Zen extension.",
+    "icons": {
+        "16": "icon.jpg"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.jpg"
+    }
+}
